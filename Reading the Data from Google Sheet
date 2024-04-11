@@ -1,0 +1,2 @@
+
+def read_the_sheet(): sheet_to_display=s.get()#get the value of s
