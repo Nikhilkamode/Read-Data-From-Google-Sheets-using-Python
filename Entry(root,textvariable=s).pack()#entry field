@@ -1,0 +1,1 @@
+Button(root,text='Display',bg='red',command=read_the_sheet).pack()#button widget on the window
