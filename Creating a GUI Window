@@ -1,0 +1,1 @@
+root = Tk() root.geometry('600x650')#geometry of window root.title('DataFlair')#title for window Label(root,text='Lets Display the Content of This File',font='arial 10').pack()
